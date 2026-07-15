@@ -28,7 +28,7 @@ body {
 }
 .main {
   width: 90%;
-  max-width: 1000px;
+  max-width: 1200px;
   margin: 2rem auto;
 }
 img {
@@ -271,7 +271,7 @@ img {
     line-height: 1;
   }
   .card--active img {
-    width: 170%;
+    width: 140%;
   }
   .card--active-desc {
     font-weight: var(--fw-400);
@@ -287,13 +287,12 @@ img {
     align-items: center;
     text-align: start;
     gap: 1rem;
-    
   }
   .card--followers img {
     width: 80%;
     margin-bottom: 0;
   }
-  .card--followers-title{
+  .card--followers-title {
     font-size: 1.8rem;
   }
 
@@ -303,11 +302,10 @@ img {
     grid-column: 2 / 3;
     grid-row: 6 / span 3;
   }
-  .card--audience-title{
+  .card--audience-title {
     font-size: 3rem;
   }
   .card--audience img {
-  
-  width: 100%;
-}
+    width: 100%;
+  }
 }
