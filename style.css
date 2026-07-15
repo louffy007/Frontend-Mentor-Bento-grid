@@ -289,7 +289,7 @@ img {
     gap: 1rem;
   }
   .card--followers img {
-    width: 80%;
+    width: 50%;
     margin-bottom: 0;
   }
   .card--followers-title {
